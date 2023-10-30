@@ -94,7 +94,7 @@ body {
     margin-right: 2%;
 }
 .botao {
-    background-color: #3d3f42;
+    background-color: white;
     border: 1px solid #464040;
     box-shadow: 0 2px 8px 0 #7D7C7C;
     border-radius: 20px 20px;
@@ -127,7 +127,7 @@ body {
     cursor: pointer;
 }
 .seta-direita {
-    background-color: rgb(187, 21, 21);
+    background-color: white;
     border: none;
     position: absolute;
     bottom: 23%;
