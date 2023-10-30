@@ -1,6 +1,7 @@
-# Processo-seletivo---Vaga-Analista-de-Front-End-Jr---Teste
+# SLIDER NiVO COM HTML E CSS
 Slider Com HTML e CSS
 
+desafio proposto em um Processo-seletivo para Vaga-Analista-de-Front-End-JR
 OBJETIVO 
 criar esta página como demonstrado na imagem em anexo.
 
