@@ -1,7 +1,7 @@
 # SLIDER NIVO COM HTML E CSS
 Slider Com HTML e CSS
 
-desafio proposto em um Processo-seletivo para Vaga-Analista-de-Front-End-JR 
+desafio proposto em um Processo-seletivo para Vaga-Analista-de-Front-End-JR (IdealTrends)
 
 <br>
 OBJETIVO 
