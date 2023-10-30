@@ -5,6 +5,7 @@ desafio proposto em um Processo-seletivo para Vaga-Analista-de-Front-End-JR
 
 <br>
 OBJETIVO 
+<br>
 criar esta página como demonstrado na imagem em anexo.
 
  Indentação do código;
