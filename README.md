@@ -2,6 +2,8 @@
 Slider Com HTML e CSS
 
 desafio proposto em um Processo-seletivo para Vaga-Analista-de-Front-End-JR
+
+<br>
 OBJETIVO 
 criar esta página como demonstrado na imagem em anexo.
 
