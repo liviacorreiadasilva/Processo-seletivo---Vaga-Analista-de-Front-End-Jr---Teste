@@ -1,4 +1,4 @@
-# SLIDER NIVO COM HTML E CSS
+# SLIDER NIVO COM HTML E CSS Puro
 Slider Com HTML e CSS
 
 desafio proposto em um Processo-seletivo para Vaga-Analista-de-Front-End-JR (IdealTrends)
