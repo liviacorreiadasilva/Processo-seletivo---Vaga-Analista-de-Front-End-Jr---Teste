@@ -7,6 +7,7 @@ desafio proposto em um Processo-seletivo para Vaga-Analista-de-Front-End-JR (Ide
 OBJETIVO 
 <br>
 criar esta página como demonstrado na imagem em anexo.
+obs: apenas demonstração criada em html e css por minha autoria e não apresenta animação.
 
  Indentação do código;
  
