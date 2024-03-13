@@ -11,6 +11,7 @@ obs: apenas demonstração criada em html e css por minha autoria e não apresen
 
 Link para acessar o código completo de minha autoria:https://github.com/liviacorreiadasilva/IdealTrends-Desafio
 
+_____________________________________
  Indentação do código;
  
 
